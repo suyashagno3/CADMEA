@@ -2,16 +2,40 @@
 #welcome-box{
     padding: 10%;
   }
-  .navbar-brand{
+.navbar-brand
+{
     padding: 0 26% 0 25%;
-  }
-  #about-card{
-    padding: 5% 0 5% 0;
-  }
+}
+#about-card
+{
+    padding: 15% 0 15% 0;
+}
+
   /* FOOTER section */
-  #footer{
+
+#footer
+{
     padding:10%;
-  }
-  .footer-line{
-  text-align: center;
-  }
+    background-color: rgb(41, 42, 43);
+    color: white;
+}
+.footer-line
+{
+    text-align: center;
+}
+#title
+{
+    background-image: linear-gradient(#e8edeb, #bdc0be);
+}
+img{
+    padding: 15px;
+}
+.nav-item
+{
+    margin-right: 15px;
+}
+.card
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(41, 40, 40);
+}

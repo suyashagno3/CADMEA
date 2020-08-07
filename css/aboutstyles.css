@@ -1,35 +1,32 @@
-/* *
+body
 {
-    margin: 0;
-    padding: 0;
-} */
-body{
     font-family: sans-serif;
 }
-.navbar-brand{
-    padding: 0 26% 0 25%;
-  }
+.navbar-brand
+{
+    padding: 0 25% 0 24%;
+}
 
   /* FOOTER section */
-#footer{
-    padding: 20px;
-    font-size: small;
-  }
-.footer-line{
-  text-align: center;
-  }
 
-/* .navbar
+#footer
 {
-    position: sticky;
-} */
-img {
+    padding: 10%;
+    background-color: rgb(41, 42, 43);
+    color: white;
+}
+.footer-line
+{
+  text-align: center;
+}
+img 
+{
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 45px;
     width: 100%;
-  }
+}
 #first
 {
     margin-left: 45px;
@@ -47,5 +44,10 @@ img {
 }
 .jumbotron
 {
-  padding: 120px;
+    padding: 120px;
+    background-image: linear-gradient(#e8edeb, #bdc0be);
+}
+.nav-item
+{
+    margin-right: 15px;
 }
