@@ -1,0 +1,17 @@
+
+#welcome-box{
+  padding: 10%;
+}
+.navbar-brand{
+  padding: 0 26% 0 25%;
+}
+#about-card{
+  padding: 5% 0 5% 0;
+}
+/* FOOTER section */
+#footer{
+  padding:10%;
+}
+.footer-line{
+text-align: center;
+}
