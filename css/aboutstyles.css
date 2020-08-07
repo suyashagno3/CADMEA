@@ -1,0 +1,51 @@
+/* *
+{
+    margin: 0;
+    padding: 0;
+} */
+body{
+    font-family: sans-serif;
+}
+.navbar-brand{
+    padding: 0 26% 0 25%;
+  }
+
+  /* FOOTER section */
+#footer{
+    padding: 20px;
+    font-size: small;
+  }
+.footer-line{
+  text-align: center;
+  }
+
+/* .navbar
+{
+    position: sticky;
+} */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 45px;
+    width: 100%;
+  }
+#first
+{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+#second
+{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+#services
+{
+    padding: 40px;
+    padding-top: 10px;
+}
+.jumbotron
+{
+  padding: 120px;
+}
